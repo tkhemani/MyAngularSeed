@@ -1,0 +1,6 @@
+C:\Users\tarun.khemani\MYVERSE\Git Workspace\tdp\tdp\tdp\bin\tdp.dll.config
+C:\Users\tarun.khemani\MYVERSE\Git Workspace\tdp\tdp\tdp\bin\tdp.dll
+C:\Users\tarun.khemani\MYVERSE\Git Workspace\tdp\tdp\tdp\bin\tdp.pdb
+C:\Users\tarun.khemani\MYVERSE\Git Workspace\tdp\tdp\tdp\obj\Debug\tdp.csprojResolveAssemblyReference.cache
+C:\Users\tarun.khemani\MYVERSE\Git Workspace\tdp\tdp\tdp\obj\Debug\tdp.dll
+C:\Users\tarun.khemani\MYVERSE\Git Workspace\tdp\tdp\tdp\obj\Debug\tdp.pdb
